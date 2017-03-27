@@ -1,7 +1,7 @@
 # Vidcoin Mediation Adapter for Google Mobile Ads SDK for iOS
-![Vidcoin](https://d3rud9259azp35.cloudfront.net/documentation/Vidcoin-Logo.png)
+![Vidcoin](https://documentation.vidcoin.com/images/Vidcoin-Logo.png)
 
-Adapter Version: 1.0.0    
+Adapter Version: 1.1.0    
 Manager: https://manager.vidcoin.com    
 Contact: publishers@vidcoin.com    
 
@@ -17,6 +17,7 @@ Contact: publishers@vidcoin.com
 - Download the latest release of the Vidcoin SDK on  [Github](https://github.com/VidCoin/VidCoin-iOS-SDK).
 - Enable the ad network in the AdMob dashboard. See the  [custom event set up guide](https://support.google.com/admob/answer/3083407?hl=en&ref_topic=3063091) for details.
   - The `Class Name` value in the custom event should be set to `GADMAdapterVidcoin`
+  - The `Label` value in the custom event can be set to anything. Its value will be used for AdMob reporting and cannot be changed.
   - The `Parameter` value in the custom event should be formatted as follows: `appId|placementCode`, where "appId" and "placementCode" are found on Vidcoin's Manager, in your app's details.
 
 ## Using GADMVidcoinExtras
