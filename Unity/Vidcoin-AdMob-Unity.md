@@ -1,7 +1,7 @@
 # Vidcoin Mediation Adapter for Google Mobile Ads SDK for Unity
 ![Vidcoin](https://documentation.vidcoin.com/images/Vidcoin-Logo.png)
 
-Adapter Version: 1.2.0    
+Adapter Version: 1.2.1    
 Manager: https://manager.vidcoin.com    
 Contact: publishers@vidcoin.com    
 
