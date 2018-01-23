@@ -1,7 +1,7 @@
 # Vidcoin Mediation Adapter for Google Mobile Ads SDK for iOS
 ![Vidcoin](https://documentation.vidcoin.com/images/Vidcoin-Logo.png)
 
-Adapter Version: 1.2.1    
+Adapter Version: 1.2.2    
 Manager: https://manager.vidcoin.com    
 Contact: publishers@vidcoin.com    
 
@@ -9,7 +9,7 @@ Contact: publishers@vidcoin.com
 - Xcode 7.0 or higher
 - Deployment target of iOS 7.0 or higher
 - Google Mobile Ads SDK v7.10.1 or higher
-- Vidcoin SDK v1.4.1 or higher
+- Vidcoin SDK v1.4.5 or higher
 
 ## Instructions
 - Add the Google Mobile Ads SDK to your project. Please refer to the  [quick start guide](https://firebase.google.com/docs/admob/ios/quick-start) for detailed instructions.

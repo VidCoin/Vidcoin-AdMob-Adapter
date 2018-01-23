@@ -1,14 +1,14 @@
 # Vidcoin Adapter for Google Mobile Ads SDK for Android
 ![Vidcoin](https://documentation.vidcoin.com/images/Vidcoin-Logo.png)
 
-Adapter Version: 1.2.1    
+Adapter Version: 1.2.2    
 Manager: https://manager.vidcoin.com    
 Contact: publishers@vidcoin.com    
 
 ## Requirements
-- Android SDK v2.3.3 (API level 10) or higher
+- Android SDK v4.0 (API level 14) or higher
 - Google Mobile Ads SDK v7.0.0 or higher
-- Vidcoin Android SDK v1.3.1 or higher
+- Vidcoin Android SDK v1.3.8 or higher
 
 ## Instructions
 - Add the Google Mobile Ads SDK to your project. Please refer to the  [quick start guide](https://firebase.google.com/docs/admob/android/quick-start) for detailed instructions.
